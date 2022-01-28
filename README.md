@@ -1,5 +1,5 @@
 # Boats Challenge
-Watch the live of this challenge here -> [Flutter Boats Community Challenge](https://www.youtube.com/watch?v=EEx2gSJFAPk)
+Watch challenge in youtube -> [Flutter Boats Community Challenge](https://www.youtube.com/watch?v=EEx2gSJFAPk)
 | Demo |
 |----------------|
 |<img src="https://media1.giphy.com/media/cooaFpE9NIh1xVOvEu/giphy.gif" width="250">
